@@ -42,16 +42,6 @@ Project dived into Python Data Analysis and Visualization, focusing on Astronomi
    cd astronomical-data-analysis
    ```
 
-2. **Install Dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter Notebooks:**
-   ```sh
-   jupyter notebook
-   ```
-
 ## Usage
 
 - Open the Jupyter Notebooks to explore various data analysis and visualization techniques.
